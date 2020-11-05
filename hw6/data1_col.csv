@@ -1,0 +1,162 @@
+,Field and institution,Rank,Doctorate recipients,field
+0,Johns Hopkins U.,1,244,Life sciences
+1,U. Wisconsin-Madison,2,241,Life sciences
+2,U. Florida,3,227,Life sciences
+3,Harvard U.,4,211,Life sciences
+4,"U. North Carolina, Chapel Hill",5,205,Life sciences
+5,"U. California, Davis",6,203,Life sciences
+6,"Ohio State U., Columbus",7,196,Life sciences
+7,Walden U.,8,186,Life sciences
+8,"U. California, Los Angeles",9,179,Life sciences
+9,"U. Minnesota, Twin Cities",9,179,Life sciences
+10,"Texas A&M U., College Station and Health Science Center",11,173,Life sciences
+11,"U. Michigan, Ann Arbor",12,167,Life sciences
+12,"U. California, Berkeley",13,162,Life sciences
+13,"U. Washington, Seattle",14,160,Life sciences
+14,U. Georgia,15,154,Life sciences
+15,"Pennsylvania State U., University Park and Hershey Medical Center",16,149,Life sciences
+16,"U. Illinois, Urbana-Champaign",17,146,Life sciences
+17,U. Pennsylvania,17,146,Life sciences
+18,"Purdue U., West Lafayette",19,145,Life sciences
+19,Cornell U.,20,133,Life sciences
+20,Stanford U.,1,139,Physical sciences and earth sciences
+21,"U. California, Berkeley",2,129,Physical sciences and earth sciences
+22,Massachusetts Institute of Technology,3,111,Physical sciences and earth sciences
+23,Harvard U.,4,107,Physical sciences and earth sciences
+24,"U. Illinois, Urbana-Champaign",5,99,Physical sciences and earth sciences
+25,"U. Texas, Austin",6,98,Physical sciences and earth sciences
+26,"Purdue U., West Lafayette",7,97,Physical sciences and earth sciences
+27,"U. Michigan, Ann Arbor",7,97,Physical sciences and earth sciences
+28,U. Wisconsin-Madison,9,95,Physical sciences and earth sciences
+29,"Texas A&M U., College Station and Health Science Center",10,88,Physical sciences and earth sciences
+30,"Pennsylvania State U., University Park and Hershey Medical Center",11,86,Physical sciences and earth sciences
+31,California Institute of Technology,12,85,Physical sciences and earth sciences
+32,"U. California, San Diego",12,85,Physical sciences and earth sciences
+33,U. Colorado Boulder,14,82,Physical sciences and earth sciences
+34,"Ohio State U., Columbus",15,81,Physical sciences and earth sciences
+35,"U. Maryland, College Park",15,81,Physical sciences and earth sciences
+36,"U. Washington, Seattle",17,80,Physical sciences and earth sciences
+37,U. Arizona,18,77,Physical sciences and earth sciences
+38,Princeton U.,19,76,Physical sciences and earth sciences
+39,U. Florida,20,75,Physical sciences and earth sciences
+40,Stanford U.,1,84,Mathematics and computer sciences
+41,"U. Illinois, Urbana-Champaign",2,74,Mathematics and computer sciences
+42,"U. California, Los Angeles",3,67,Mathematics and computer sciences
+43,North Carolina State U.,4,61,Mathematics and computer sciences
+44,"U. California, Berkeley",4,61,Mathematics and computer sciences
+45,Carnegie Mellon U.,6,58,Mathematics and computer sciences
+46,"U. Washington, Seattle",6,58,Mathematics and computer sciences
+47,"Purdue U., West Lafayette",8,55,Mathematics and computer sciences
+48,U. Wisconsin-Madison,8,55,Mathematics and computer sciences
+49,"U. Minnesota, Twin Cities",10,51,Mathematics and computer sciences
+50,Massachusetts Institute of Technology,11,50,Mathematics and computer sciences
+51,"U. Texas, Austin",11,50,Mathematics and computer sciences
+52,"SUNY, Stony Brook U.",13,47,Mathematics and computer sciences
+53,Cornell U.,14,46,Mathematics and computer sciences
+54,"U. Michigan, Ann Arbor",14,46,Mathematics and computer sciences
+55,"Texas A&M U., College Station and Health Science Center",16,43,Mathematics and computer sciences
+56,"U. California, Davis",16,43,Mathematics and computer sciences
+57,New York U.,18,42,Mathematics and computer sciences
+58,"Ohio State U., Columbus",18,42,Mathematics and computer sciences
+59,"U. California, Irvine",18,42,Mathematics and computer sciences
+60,"U. Maryland, College Park",18,42,Mathematics and computer sciences
+61,Walden U.,1,260,Psychology and social sciences 
+62,"CUNY, Graduate Center",2,151,Psychology and social sciences 
+63,"U. California, Berkeley",3,127,Psychology and social sciences 
+64,"U. Texas, Austin",4,123,Psychology and social sciences 
+65,Harvard U.,5,120,Psychology and social sciences 
+66,"U. Maryland, College Park",5,120,Psychology and social sciences 
+67,"U. California, Los Angeles",7,109,Psychology and social sciences 
+68,"U. Michigan, Ann Arbor",8,107,Psychology and social sciences 
+69,George Mason U.,9,102,Psychology and social sciences 
+70,"U. Minnesota, Twin Cities",9,102,Psychology and social sciences 
+71,Michigan State U.,11,101,Psychology and social sciences 
+72,"Ohio State U., Columbus",12,99,Psychology and social sciences 
+73,"Pennsylvania State U., University Park and Hershey Medical Center",12,99,Psychology and social sciences 
+74,U. Florida,14,94,Psychology and social sciences 
+75,"U. Illinois, Urbana-Champaign",14,94,Psychology and social sciences 
+76,"Indiana U., Bloomington",16,92,Psychology and social sciences 
+77,U. Wisconsin-Madison,16,92,Psychology and social sciences 
+78,U. Chicago,18,91,Psychology and social sciences 
+79,"U. California, San Diego",19,90,Psychology and social sciences 
+80,U. Georgia,20,86,Psychology and social sciences 
+81,Georgia Institute of Technology,1,345,Engineering 
+82,Massachusetts Institute of Technology,2,291,Engineering 
+83,"Purdue U., West Lafayette",3,275,Engineering 
+84,"Texas A&M U., College Station and Health Science Center",4,236,Engineering 
+85,"U. Michigan, Ann Arbor",5,223,Engineering 
+86,"U. Illinois, Urbana-Champaign",6,209,Engineering 
+87,"U. Texas, Austin",7,203,Engineering 
+88,Stanford U.,8,202,Engineering 
+89,"U. California, Berkeley",9,177,Engineering 
+90,U. Florida,10,168,Engineering 
+91,North Carolina State U.,11,164,Engineering 
+92,Carnegie Mellon U.,12,162,Engineering 
+93,Virginia Polytechnic Institute and State U.,13,156,Engineering 
+94,"Pennsylvania State U., University Park and Hershey Medical Center",14,153,Engineering 
+95,U. Wisconsin-Madison,15,149,Engineering 
+96,"Ohio State U., Columbus",16,141,Engineering 
+97,"U. California, Los Angeles",17,130,Engineering 
+98,"U. California, San Diego",18,128,Engineering 
+99,Northwestern U.,19,127,Engineering 
+100,"U. Minnesota, Twin Cities",20,121,Engineering 
+101,"Columbia U., Teachers C.",1,130,Education
+102,Texas Tech U.,2,98,Education
+103,"Pennsylvania State U., University Park and Hershey Medical Center",3,96,Education
+104,U. Georgia,4,83,Education
+105,"U. Minnesota, Twin Cities",5,77,Education
+106,Walden U.,6,75,Education
+107,"Ohio State U., Columbus",7,73,Education
+108,U. Wisconsin-Madison,7,73,Education
+109,Michigan State U.,9,71,Education
+110,"U. Texas, Austin",10,65,Education
+111,Claremont Graduate U.,11,63,Education
+112,"U. South Florida, Tampa",12,62,Education
+113,"Auburn U., Auburn",13,57,Education
+114,U. Kentucky,14,56,Education
+115,George Washington U.,15,53,Education
+116,"U. North Texas, Denton",16,51,Education
+117,"Indiana U., Bloomington",17,50,Education
+118,"U. Illinois, Urbana-Champaign",17,50,Education
+119,U. Florida,19,47,Education
+120,U. Memphis,20,46,Education
+121,Harvard U.,1,141,Humanities and arts 
+122,"CUNY, Graduate Center",2,124,Humanities and arts 
+123,U. Wisconsin-Madison,3,110,Humanities and arts 
+124,U. Chicago,4,107,Humanities and arts 
+125,New York U.,5,105,Humanities and arts 
+126,"U. California, Los Angeles",6,103,Humanities and arts 
+127,Yale U.,7,95,Humanities and arts 
+128,Columbia U. in the City of New York,8,89,Humanities and arts 
+129,"U. Texas, Austin",8,89,Humanities and arts 
+130,"U. California, Berkeley",10,85,Humanities and arts 
+131,"U. Michigan, Ann Arbor",10,85,Humanities and arts 
+132,Princeton U.,12,81,Humanities and arts 
+133,"Indiana U., Bloomington",13,76,Humanities and arts 
+134,U. Pennsylvania,14,75,Humanities and arts 
+135,"Ohio State U., Columbus",15,69,Humanities and arts 
+136,"U. North Carolina, Chapel Hill",16,68,Humanities and arts 
+137,"U. Virginia, Charlottesville",16,68,Humanities and arts 
+138,Florida State U.,18,67,Humanities and arts 
+139,Stanford U.,19,66,Humanities and arts 
+140,U. Colorado Boulder,20,62,Humanities and arts 
+141,Walden U.,1,133,Other
+142,Stanford U.,2,64,Other
+143,"U. Texas, Austin",3,58,Other
+144,"U. Illinois, Urbana-Champaign",4,54,Other
+145,"Texas A&M U., College Station and Health Science Center",5,44,Other
+146,Texas Tech U.,6,42,Other
+147,U. Pennsylvania,7,41,Other
+148,North Carolina State U.,8,40,Other
+149,Regent U.,8,40,Other
+150,"Rutgers, State U. New Jersey, Newark",10,38,Other
+151,"U. Washington, Seattle",11,37,Other
+152,Florida State U.,12,36,Other
+153,Michigan State U.,12,36,Other
+154,New York U.,12,36,Other
+155,"Pennsylvania State U., University Park and Hershey Medical Center",15,35,Other
+156,Fielding Graduate U.,16,34,Other
+157,"Ohio State U., Columbus",16,34,Other
+158,"U. Alabama, Tuscaloosa",16,34,Other
+159,"U. Michigan, Ann Arbor",16,34,Other
+160,"U. Missouri, Columbia",16,34,Other

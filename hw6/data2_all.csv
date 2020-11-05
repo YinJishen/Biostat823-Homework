@@ -1,0 +1,787 @@
+,State or location,sex,value,field
+0,United States,Male,29146,Total
+1,Alabama,Male,365,Total
+2,Alaska,Male,19,Total
+3,Arizona,Male,420,Total
+4,Arkansas,Male,98,Total
+5,California,Male,3283,Total
+6,Colorado,Male,543,Total
+7,Connecticut,Male,397,Total
+8,Delaware,Male,127,Total
+9,District of Columbia,Male,295,Total
+10,Florida,Male,1258,Total
+11,Georgia,Male,795,Total
+12,Hawaii,Male,78,Total
+13,Idaho,Male,57,Total
+14,Illinois,Male,1357,Total
+15,Indiana,Male,928,Total
+16,Iowa,Male,410,Total
+17,Kansas,Male,281,Total
+18,Kentucky,Male,256,Total
+19,Louisiana,Male,342,Total
+20,Maine,Male,29,Total
+21,Maryland,Male,645,Total
+22,Massachusetts,Male,1565,Total
+23,Michigan,Male,1056,Total
+24,Minnesota,Male,599,Total
+25,Mississippi,Male,229,Total
+26,Missouri,Male,551,Total
+27,Montana,Male,56,Total
+28,Nebraska,Male,186,Total
+29,Nevada,Male,110,Total
+30,New Hampshire,Male,78,Total
+31,New Jersey,Male,628,Total
+32,New Mexico,Male,179,Total
+33,New York,Male,2092,Total
+34,North Carolina,Male,949,Total
+35,North Dakota,Male,81,Total
+36,Ohio,Male,1128,Total
+37,Oklahoma,Male,292,Total
+38,Oregon,Male,322,Total
+39,Pennsylvania,Male,1408,Total
+40,Puerto Rico,Male,29,Total
+41,Rhode Island,Male,169,Total
+42,South Carolina,Male,266,Total
+43,South Dakota,Male,76,Total
+44,Tennessee,Male,524,Total
+45,Texas,Male,2186,Total
+46,Utah,Male,315,Total
+47,Vermont,Male,29,Total
+48,Virginia,Male,799,Total
+49,Washington,Male,470,Total
+50,West Virginia,Male,96,Total
+51,Wisconsin,Male,633,Total
+52,Wyoming,Male,62,Total
+53,United States,Female,25495,Total
+54,Alabama,Female,342,Total
+55,Alaska,Female,33,Total
+56,Arizona,Female,381,Total
+57,Arkansas,Female,104,Total
+58,California,Female,2817,Total
+59,Colorado,Female,462,Total
+60,Connecticut,Female,351,Total
+61,Delaware,Female,111,Total
+62,District of Columbia,Female,328,Total
+63,Florida,Female,1078,Total
+64,Georgia,Female,697,Total
+65,Hawaii,Female,111,Total
+66,Idaho,Female,46,Total
+67,Illinois,Female,1173,Total
+68,Indiana,Female,641,Total
+69,Iowa,Female,305,Total
+70,Kansas,Female,249,Total
+71,Kentucky,Female,241,Total
+72,Louisiana,Female,265,Total
+73,Maine,Female,27,Total
+74,Maryland,Female,650,Total
+75,Massachusetts,Female,1313,Total
+76,Michigan,Female,850,Total
+77,Minnesota,Female,775,Total
+78,Mississippi,Female,230,Total
+79,Missouri,Female,470,Total
+80,Montana,Female,63,Total
+81,Nebraska,Female,177,Total
+82,Nevada,Female,90,Total
+83,New Hampshire,Female,80,Total
+84,New Jersey,Female,487,Total
+85,New Mexico,Female,120,Total
+86,New York,Female,1972,Total
+87,North Carolina,Female,883,Total
+88,North Dakota,Female,100,Total
+89,Ohio,Female,900,Total
+90,Oklahoma,Female,232,Total
+91,Oregon,Female,250,Total
+92,Pennsylvania,Female,1218,Total
+93,Puerto Rico,Female,54,Total
+94,Rhode Island,Female,153,Total
+95,South Carolina,Female,240,Total
+96,South Dakota,Female,34,Total
+97,Tennessee,Female,508,Total
+98,Texas,Female,1879,Total
+99,Utah,Female,193,Total
+100,Vermont,Female,32,Total
+101,Virginia,Female,714,Total
+102,Washington,Female,444,Total
+103,West Virginia,Female,87,Total
+104,Wisconsin,Female,496,Total
+105,Wyoming,Female,39,Total
+106,United States,Male,5629,Life sciences
+107,Alabama,Male,96,Life sciences
+108,Arizona,Male,57,Life sciences
+109,Arkansas,Male,32,Life sciences
+110,California,Male,583,Life sciences
+111,Colorado,Male,89,Life sciences
+112,Connecticut,Male,76,Life sciences
+113,Delaware,Male,25,Life sciences
+114,District of Columbia,Male,21,Life sciences
+115,Florida,Male,221,Life sciences
+116,Georgia,Male,148,Life sciences
+117,Hawaii,Male,11,Life sciences
+118,Idaho,Male,15,Life sciences
+119,Illinois,Male,225,Life sciences
+120,Indiana,Male,152,Life sciences
+121,Iowa,Male,78,Life sciences
+122,Kansas,Male,71,Life sciences
+123,Kentucky,Male,56,Life sciences
+124,Louisiana,Male,89,Life sciences
+125,Maryland,Male,160,Life sciences
+126,Massachusetts,Male,310,Life sciences
+127,Michigan,Male,181,Life sciences
+128,Minnesota,Male,153,Life sciences
+129,Mississippi,Male,62,Life sciences
+130,Missouri,Male,129,Life sciences
+131,Montana,Male,23,Life sciences
+132,Nebraska,Male,73,Life sciences
+133,Nevada,Male,7,Life sciences
+134,New Hampshire,Male,16,Life sciences
+135,New Jersey,Male,86,Life sciences
+136,New Mexico,Male,24,Life sciences
+137,New York,Male,367,Life sciences
+138,North Carolina,Male,248,Life sciences
+139,North Dakota,Male,20,Life sciences
+140,Ohio,Male,189,Life sciences
+141,Oklahoma,Male,77,Life sciences
+142,Oregon,Male,85,Life sciences
+143,Pennsylvania,Male,263,Life sciences
+144,Rhode Island,Male,31,Life sciences
+145,South Carolina,Male,36,Life sciences
+146,South Dakota,Male,24,Life sciences
+147,Tennessee,Male,105,Life sciences
+148,Texas,Male,412,Life sciences
+149,Utah,Male,71,Life sciences
+150,Vermont,Male,10,Life sciences
+151,Virginia,Male,114,Life sciences
+152,Washington,Male,103,Life sciences
+153,West Virginia,Male,26,Life sciences
+154,Wisconsin,Male,148,Life sciences
+155,Wyoming,Male,19,Life sciences
+156,United States,Female,6958,Life sciences
+157,Alabama,Female,92,Life sciences
+158,Arizona,Female,76,Life sciences
+159,Arkansas,Female,43,Life sciences
+160,California,Female,716,Life sciences
+161,Colorado,Female,123,Life sciences
+162,Connecticut,Female,120,Life sciences
+163,Delaware,Female,34,Life sciences
+164,District of Columbia,Female,34,Life sciences
+165,Florida,Female,269,Life sciences
+166,Georgia,Female,209,Life sciences
+167,Hawaii,Female,33,Life sciences
+168,Idaho,Female,17,Life sciences
+169,Illinois,Female,252,Life sciences
+170,Indiana,Female,156,Life sciences
+171,Iowa,Female,72,Life sciences
+172,Kansas,Female,77,Life sciences
+173,Kentucky,Female,82,Life sciences
+174,Louisiana,Female,68,Life sciences
+175,Maryland,Female,279,Life sciences
+176,Massachusetts,Female,396,Life sciences
+177,Michigan,Female,204,Life sciences
+178,Minnesota,Female,244,Life sciences
+179,Mississippi,Female,45,Life sciences
+180,Missouri,Female,130,Life sciences
+181,Montana,Female,13,Life sciences
+182,Nebraska,Female,70,Life sciences
+183,Nevada,Female,14,Life sciences
+184,New Hampshire,Female,44,Life sciences
+185,New Jersey,Female,123,Life sciences
+186,New Mexico,Female,21,Life sciences
+187,New York,Female,492,Life sciences
+188,North Carolina,Female,296,Life sciences
+189,North Dakota,Female,26,Life sciences
+190,Ohio,Female,251,Life sciences
+191,Oklahoma,Female,60,Life sciences
+192,Oregon,Female,98,Life sciences
+193,Pennsylvania,Female,325,Life sciences
+194,Rhode Island,Female,36,Life sciences
+195,South Carolina,Female,64,Life sciences
+196,South Dakota,Female,13,Life sciences
+197,Tennessee,Female,165,Life sciences
+198,Texas,Female,493,Life sciences
+199,Utah,Female,45,Life sciences
+200,Vermont,Female,15,Life sciences
+201,Virginia,Female,151,Life sciences
+202,Washington,Female,153,Life sciences
+203,West Virginia,Female,26,Life sciences
+204,Wisconsin,Female,163,Life sciences
+205,Wyoming,Female,9,Life sciences
+206,United States,Male,4068,Physical sciences and earth sciences 
+207,Alabama,Male,38,Physical sciences and earth sciences 
+208,Alaska,Male,9,Physical sciences and earth sciences 
+209,Arizona,Male,78,Physical sciences and earth sciences 
+210,Arkansas,Male,6,Physical sciences and earth sciences 
+211,California,Male,551,Physical sciences and earth sciences 
+212,Colorado,Male,114,Physical sciences and earth sciences 
+213,Connecticut,Male,66,Physical sciences and earth sciences 
+214,Delaware,Male,17,Physical sciences and earth sciences 
+215,District of Columbia,Male,18,Physical sciences and earth sciences 
+216,Florida,Male,169,Physical sciences and earth sciences 
+217,Georgia,Male,81,Physical sciences and earth sciences 
+218,Hawaii,Male,15,Physical sciences and earth sciences 
+219,Illinois,Male,199,Physical sciences and earth sciences 
+220,Indiana,Male,128,Physical sciences and earth sciences 
+221,Iowa,Male,57,Physical sciences and earth sciences 
+222,Kansas,Male,29,Physical sciences and earth sciences 
+223,Kentucky,Male,12,Physical sciences and earth sciences 
+224,Louisiana,Male,43,Physical sciences and earth sciences 
+225,Maryland,Male,95,Physical sciences and earth sciences 
+226,Massachusetts,Male,252,Physical sciences and earth sciences 
+227,Michigan,Male,135,Physical sciences and earth sciences 
+228,Minnesota,Male,41,Physical sciences and earth sciences 
+229,Mississippi,Male,30,Physical sciences and earth sciences 
+230,Missouri,Male,84,Physical sciences and earth sciences 
+231,Montana,Male,8,Physical sciences and earth sciences 
+232,Nebraska,Male,18,Physical sciences and earth sciences 
+233,Nevada,Male,14,Physical sciences and earth sciences 
+234,New Hampshire,Male,18,Physical sciences and earth sciences 
+235,New Jersey,Male,102,Physical sciences and earth sciences 
+236,New Mexico,Male,34,Physical sciences and earth sciences 
+237,New York,Male,273,Physical sciences and earth sciences 
+238,North Carolina,Male,127,Physical sciences and earth sciences 
+239,Ohio,Male,188,Physical sciences and earth sciences 
+240,Oklahoma,Male,29,Physical sciences and earth sciences 
+241,Oregon,Male,69,Physical sciences and earth sciences 
+242,Pennsylvania,Male,163,Physical sciences and earth sciences 
+243,Rhode Island,Male,31,Physical sciences and earth sciences 
+244,South Carolina,Male,32,Physical sciences and earth sciences 
+245,Tennessee,Male,59,Physical sciences and earth sciences 
+246,Texas,Male,282,Physical sciences and earth sciences 
+247,Utah,Male,40,Physical sciences and earth sciences 
+248,Virginia,Male,96,Physical sciences and earth sciences 
+249,Washington,Male,72,Physical sciences and earth sciences 
+250,Wisconsin,Male,85,Physical sciences and earth sciences 
+251,Wyoming,Male,11,Physical sciences and earth sciences 
+252,United States,Female,2011,Physical sciences and earth sciences 
+253,Alabama,Female,21,Physical sciences and earth sciences 
+254,Alaska,Female,11,Physical sciences and earth sciences 
+255,Arizona,Female,32,Physical sciences and earth sciences 
+256,Arkansas,Female,11,Physical sciences and earth sciences 
+257,California,Female,289,Physical sciences and earth sciences 
+258,Colorado,Female,41,Physical sciences and earth sciences 
+259,Connecticut,Female,38,Physical sciences and earth sciences 
+260,Delaware,Female,7,Physical sciences and earth sciences 
+261,District of Columbia,Female,19,Physical sciences and earth sciences 
+262,Florida,Female,90,Physical sciences and earth sciences 
+263,Georgia,Female,48,Physical sciences and earth sciences 
+264,Hawaii,Female,14,Physical sciences and earth sciences 
+265,Illinois,Female,68,Physical sciences and earth sciences 
+266,Indiana,Female,67,Physical sciences and earth sciences 
+267,Iowa,Female,22,Physical sciences and earth sciences 
+268,Kansas,Female,15,Physical sciences and earth sciences 
+269,Kentucky,Female,10,Physical sciences and earth sciences 
+270,Louisiana,Female,25,Physical sciences and earth sciences 
+271,Maryland,Female,46,Physical sciences and earth sciences 
+272,Massachusetts,Female,120,Physical sciences and earth sciences 
+273,Michigan,Female,71,Physical sciences and earth sciences 
+274,Minnesota,Female,25,Physical sciences and earth sciences 
+275,Mississippi,Female,18,Physical sciences and earth sciences 
+276,Missouri,Female,23,Physical sciences and earth sciences 
+277,Montana,Female,7,Physical sciences and earth sciences 
+278,Nebraska,Female,14,Physical sciences and earth sciences 
+279,Nevada,Female,6,Physical sciences and earth sciences 
+280,New Hampshire,Female,14,Physical sciences and earth sciences 
+281,New Jersey,Female,43,Physical sciences and earth sciences 
+282,New Mexico,Female,10,Physical sciences and earth sciences 
+283,New York,Female,138,Physical sciences and earth sciences 
+284,North Carolina,Female,67,Physical sciences and earth sciences 
+285,Ohio,Female,72,Physical sciences and earth sciences 
+286,Oklahoma,Female,17,Physical sciences and earth sciences 
+287,Oregon,Female,26,Physical sciences and earth sciences 
+288,Pennsylvania,Female,85,Physical sciences and earth sciences 
+289,Rhode Island,Female,16,Physical sciences and earth sciences 
+290,South Carolina,Female,27,Physical sciences and earth sciences 
+291,Tennessee,Female,28,Physical sciences and earth sciences 
+292,Texas,Female,142,Physical sciences and earth sciences 
+293,Utah,Female,14,Physical sciences and earth sciences 
+294,Virginia,Female,49,Physical sciences and earth sciences 
+295,Washington,Female,38,Physical sciences and earth sciences 
+296,Wisconsin,Female,36,Physical sciences and earth sciences 
+297,Wyoming,Female,7,Physical sciences and earth sciences 
+298,United States,Male,2866,Mathematics and computer sciences
+299,Alabama,Male,35,Mathematics and computer sciences
+300,Arizona,Male,38,Mathematics and computer sciences
+301,California,Male,371,Mathematics and computer sciences
+302,Colorado,Male,51,Mathematics and computer sciences
+303,Connecticut,Male,44,Mathematics and computer sciences
+304,District of Columbia,Male,17,Mathematics and computer sciences
+305,Florida,Male,109,Mathematics and computer sciences
+306,Georgia,Male,77,Mathematics and computer sciences
+307,Illinois,Male,139,Mathematics and computer sciences
+308,Indiana,Male,88,Mathematics and computer sciences
+309,Iowa,Male,50,Mathematics and computer sciences
+310,Kansas,Male,18,Mathematics and computer sciences
+311,Kentucky,Male,24,Mathematics and computer sciences
+312,Louisiana,Male,39,Mathematics and computer sciences
+313,Maryland,Male,81,Mathematics and computer sciences
+314,Massachusetts,Male,126,Mathematics and computer sciences
+315,Michigan,Male,89,Mathematics and computer sciences
+316,Minnesota,Male,43,Mathematics and computer sciences
+317,Mississippi,Male,12,Mathematics and computer sciences
+318,Missouri,Male,41,Mathematics and computer sciences
+319,Nebraska,Male,19,Mathematics and computer sciences
+320,New Jersey,Male,80,Mathematics and computer sciences
+321,New York,Male,243,Mathematics and computer sciences
+322,North Carolina,Male,103,Mathematics and computer sciences
+323,Ohio,Male,86,Mathematics and computer sciences
+324,Oregon,Male,44,Mathematics and computer sciences
+325,Pennsylvania,Male,148,Mathematics and computer sciences
+326,South Carolina,Male,24,Mathematics and computer sciences
+327,Tennessee,Male,42,Mathematics and computer sciences
+328,Texas,Male,209,Mathematics and computer sciences
+329,Utah,Male,42,Mathematics and computer sciences
+330,Virginia,Male,73,Mathematics and computer sciences
+331,Washington,Male,47,Mathematics and computer sciences
+332,Wisconsin,Male,62,Mathematics and computer sciences
+333,United States,Female,976,Mathematics and computer sciences
+334,Alabama,Female,13,Mathematics and computer sciences
+335,Arizona,Female,13,Mathematics and computer sciences
+336,California,Female,124,Mathematics and computer sciences
+337,Colorado,Female,16,Mathematics and computer sciences
+338,Connecticut,Female,16,Mathematics and computer sciences
+339,District of Columbia,Female,7,Mathematics and computer sciences
+340,Florida,Female,36,Mathematics and computer sciences
+341,Georgia,Female,22,Mathematics and computer sciences
+342,Illinois,Female,54,Mathematics and computer sciences
+343,Indiana,Female,30,Mathematics and computer sciences
+344,Iowa,Female,22,Mathematics and computer sciences
+345,Kansas,Female,5,Mathematics and computer sciences
+346,Kentucky,Female,11,Mathematics and computer sciences
+347,Louisiana,Female,9,Mathematics and computer sciences
+348,Maryland,Female,37,Mathematics and computer sciences
+349,Massachusetts,Female,51,Mathematics and computer sciences
+350,Michigan,Female,29,Mathematics and computer sciences
+351,Minnesota,Female,10,Mathematics and computer sciences
+352,Mississippi,Female,8,Mathematics and computer sciences
+353,Missouri,Female,14,Mathematics and computer sciences
+354,Nebraska,Female,8,Mathematics and computer sciences
+355,New Jersey,Female,20,Mathematics and computer sciences
+356,New York,Female,59,Mathematics and computer sciences
+357,North Carolina,Female,52,Mathematics and computer sciences
+358,Ohio,Female,27,Mathematics and computer sciences
+359,Oregon,Female,8,Mathematics and computer sciences
+360,Pennsylvania,Female,58,Mathematics and computer sciences
+361,South Carolina,Female,8,Mathematics and computer sciences
+362,Tennessee,Female,10,Mathematics and computer sciences
+363,Texas,Female,87,Mathematics and computer sciences
+364,Utah,Female,7,Mathematics and computer sciences
+365,Virginia,Female,30,Mathematics and computer sciences
+366,Washington,Female,21,Mathematics and computer sciences
+367,Wisconsin,Female,13,Mathematics and computer sciences
+368,United States,Male,3693,Psychology and social sciences
+369,Alabama,Male,28,Psychology and social sciences
+370,Arizona,Male,53,Psychology and social sciences
+371,Arkansas,Male,8,Psychology and social sciences
+372,California,Male,488,Psychology and social sciences
+373,Colorado,Male,42,Psychology and social sciences
+374,Connecticut,Male,57,Psychology and social sciences
+375,Delaware,Male,18,Psychology and social sciences
+376,District of Columbia,Male,72,Psychology and social sciences
+377,Florida,Male,168,Psychology and social sciences
+378,Georgia,Male,67,Psychology and social sciences
+379,Hawaii,Male,24,Psychology and social sciences
+380,Idaho,Male,9,Psychology and social sciences
+381,Illinois,Male,181,Psychology and social sciences
+382,Indiana,Male,94,Psychology and social sciences
+383,Iowa,Male,34,Psychology and social sciences
+384,Kansas,Male,47,Psychology and social sciences
+385,Kentucky,Male,34,Psychology and social sciences
+386,Louisiana,Male,32,Psychology and social sciences
+387,Maryland,Male,74,Psychology and social sciences
+388,Massachusetts,Male,210,Psychology and social sciences
+389,Michigan,Male,148,Psychology and social sciences
+390,Minnesota,Male,124,Psychology and social sciences
+391,Mississippi,Male,29,Psychology and social sciences
+392,Missouri,Male,60,Psychology and social sciences
+393,Nebraska,Male,20,Psychology and social sciences
+394,Nevada,Male,19,Psychology and social sciences
+395,New Hampshire,Male,12,Psychology and social sciences
+396,New Jersey,Male,89,Psychology and social sciences
+397,New Mexico,Male,15,Psychology and social sciences
+398,New York,Male,343,Psychology and social sciences
+399,North Carolina,Male,106,Psychology and social sciences
+400,North Dakota,Male,9,Psychology and social sciences
+401,Ohio,Male,123,Psychology and social sciences
+402,Oklahoma,Male,38,Psychology and social sciences
+403,Oregon,Male,32,Psychology and social sciences
+404,Pennsylvania,Male,148,Psychology and social sciences
+405,Puerto Rico,Male,9,Psychology and social sciences
+406,Rhode Island,Male,17,Psychology and social sciences
+407,South Carolina,Male,34,Psychology and social sciences
+408,South Dakota,Male,10,Psychology and social sciences
+409,Tennessee,Male,64,Psychology and social sciences
+410,Texas,Male,200,Psychology and social sciences
+411,Utah,Male,35,Psychology and social sciences
+412,Virginia,Male,125,Psychology and social sciences
+413,Washington,Male,47,Psychology and social sciences
+414,West Virginia,Male,11,Psychology and social sciences
+415,Wisconsin,Male,64,Psychology and social sciences
+416,Wyoming,Male,12,Psychology and social sciences
+417,United States,Female,5381,Psychology and social sciences
+418,Alabama,Female,61,Psychology and social sciences
+419,Arizona,Female,103,Psychology and social sciences
+420,Arkansas,Female,11,Psychology and social sciences
+421,California,Female,641,Psychology and social sciences
+422,Colorado,Female,86,Psychology and social sciences
+423,Connecticut,Female,72,Psychology and social sciences
+424,Delaware,Female,27,Psychology and social sciences
+425,District of Columbia,Female,135,Psychology and social sciences
+426,Florida,Female,241,Psychology and social sciences
+427,Georgia,Female,149,Psychology and social sciences
+428,Hawaii,Female,37,Psychology and social sciences
+429,Idaho,Female,6,Psychology and social sciences
+430,Illinois,Female,264,Psychology and social sciences
+431,Indiana,Female,127,Psychology and social sciences
+432,Iowa,Female,48,Psychology and social sciences
+433,Kansas,Female,64,Psychology and social sciences
+434,Kentucky,Female,41,Psychology and social sciences
+435,Louisiana,Female,58,Psychology and social sciences
+436,Maryland,Female,131,Psychology and social sciences
+437,Massachusetts,Female,263,Psychology and social sciences
+438,Michigan,Female,197,Psychology and social sciences
+439,Minnesota,Female,238,Psychology and social sciences
+440,Mississippi,Female,47,Psychology and social sciences
+441,Missouri,Female,92,Psychology and social sciences
+442,Nebraska,Female,26,Psychology and social sciences
+443,Nevada,Female,25,Psychology and social sciences
+444,New Hampshire,Female,5,Psychology and social sciences
+445,New Jersey,Female,90,Psychology and social sciences
+446,New Mexico,Female,28,Psychology and social sciences
+447,New York,Female,492,Psychology and social sciences
+448,North Carolina,Female,141,Psychology and social sciences
+449,North Dakota,Female,23,Psychology and social sciences
+450,Ohio,Female,160,Psychology and social sciences
+451,Oklahoma,Female,35,Psychology and social sciences
+452,Oregon,Female,48,Psychology and social sciences
+453,Pennsylvania,Female,208,Psychology and social sciences
+454,Puerto Rico,Female,33,Psychology and social sciences
+455,Rhode Island,Female,41,Psychology and social sciences
+456,South Carolina,Female,31,Psychology and social sciences
+457,South Dakota,Female,9,Psychology and social sciences
+458,Tennessee,Female,89,Psychology and social sciences
+459,Texas,Female,353,Psychology and social sciences
+460,Utah,Female,47,Psychology and social sciences
+461,Virginia,Female,152,Psychology and social sciences
+462,Washington,Female,69,Psychology and social sciences
+463,West Virginia,Female,20,Psychology and social sciences
+464,Wisconsin,Female,74,Psychology and social sciences
+465,Wyoming,Female,6,Psychology and social sciences
+466,United States,Male,7389,Engineering
+467,Alabama,Male,100,Engineering
+468,Arizona,Male,109,Engineering
+469,California,Male,817,Engineering
+470,Colorado,Male,161,Engineering
+471,Connecticut,Male,69,Engineering
+472,Delaware,Male,46,Engineering
+473,District of Columbia,Male,61,Engineering
+474,Florida,Male,333,Engineering
+475,Georgia,Male,283,Engineering
+476,Illinois,Male,314,Engineering
+477,Indiana,Male,274,Engineering
+478,Iowa,Male,115,Engineering
+479,Kansas,Male,56,Engineering
+480,Kentucky,Male,38,Engineering
+481,Louisiana,Male,63,Engineering
+482,Maryland,Male,162,Engineering
+483,Massachusetts,Male,416,Engineering
+484,Michigan,Male,296,Engineering
+485,Minnesota,Male,103,Engineering
+486,Mississippi,Male,39,Engineering
+487,Missouri,Male,127,Engineering
+488,Nebraska,Male,33,Engineering
+489,Nevada,Male,28,Engineering
+490,New Jersey,Male,141,Engineering
+491,New Mexico,Male,60,Engineering
+492,New York,Male,409,Engineering
+493,North Carolina,Male,229,Engineering
+494,North Dakota,Male,23,Engineering
+495,Ohio,Male,325,Engineering
+496,Oklahoma,Male,52,Engineering
+497,Oregon,Male,56,Engineering
+498,Pennsylvania,Male,407,Engineering
+499,Rhode Island,Male,31,Engineering
+500,South Carolina,Male,92,Engineering
+501,Tennessee,Male,137,Engineering
+502,Texas,Male,660,Engineering
+503,Utah,Male,82,Engineering
+504,Virginia,Male,222,Engineering
+505,Washington,Male,127,Engineering
+506,West Virginia,Male,26,Engineering
+507,Wisconsin,Male,146,Engineering
+508,United States,Female,2448,Engineering
+509,Alabama,Female,31,Engineering
+510,Arizona,Female,32,Engineering
+511,California,Female,334,Engineering
+512,Colorado,Female,45,Engineering
+513,Connecticut,Female,28,Engineering
+514,Delaware,Female,23,Engineering
+515,District of Columbia,Female,17,Engineering
+516,Florida,Female,86,Engineering
+517,Georgia,Female,77,Engineering
+518,Illinois,Female,119,Engineering
+519,Indiana,Female,55,Engineering
+520,Iowa,Female,37,Engineering
+521,Kansas,Female,18,Engineering
+522,Kentucky,Female,10,Engineering
+523,Louisiana,Female,11,Engineering
+524,Maryland,Female,63,Engineering
+525,Massachusetts,Female,181,Engineering
+526,Michigan,Female,98,Engineering
+527,Minnesota,Female,25,Engineering
+528,Mississippi,Female,12,Engineering
+529,Missouri,Female,44,Engineering
+530,Nebraska,Female,11,Engineering
+531,Nevada,Female,6,Engineering
+532,New Jersey,Female,53,Engineering
+533,New Mexico,Female,14,Engineering
+534,New York,Female,158,Engineering
+535,North Carolina,Female,87,Engineering
+536,North Dakota,Female,7,Engineering
+537,Ohio,Female,85,Engineering
+538,Oklahoma,Female,18,Engineering
+539,Oregon,Female,15,Engineering
+540,Pennsylvania,Female,138,Engineering
+541,Rhode Island,Female,8,Engineering
+542,South Carolina,Female,49,Engineering
+543,Tennessee,Female,48,Engineering
+544,Texas,Female,217,Engineering
+545,Utah,Female,17,Engineering
+546,Virginia,Female,69,Engineering
+547,Washington,Female,44,Engineering
+548,West Virginia,Female,6,Engineering
+549,Wisconsin,Female,29,Engineering
+550,United States,Male,1521,Education
+551,Alabama,Male,34,Education
+552,Arizona,Male,24,Education
+553,California,Male,91,Education
+554,Colorado,Male,33,Education
+555,Connecticut,Male,5,Education
+556,District of Columbia,Male,25,Education
+557,Florida,Male,80,Education
+558,Georgia,Male,42,Education
+559,Idaho,Male,6,Education
+560,Illinois,Male,60,Education
+561,Indiana,Male,51,Education
+562,Iowa,Male,32,Education
+563,Kansas,Male,18,Education
+564,Kentucky,Male,26,Education
+565,Louisiana,Male,19,Education
+566,Maryland,Male,12,Education
+567,Massachusetts,Male,48,Education
+568,Michigan,Male,84,Education
+569,Minnesota,Male,41,Education
+570,Mississippi,Male,32,Education
+571,Missouri,Male,23,Education
+572,Montana,Male,8,Education
+573,Nebraska,Male,10,Education
+574,Nevada,Male,16,Education
+575,New Jersey,Male,22,Education
+576,New Mexico,Male,15,Education
+577,New York,Male,82,Education
+578,North Carolina,Male,23,Education
+579,North Dakota,Male,14,Education
+580,Ohio,Male,79,Education
+581,Oklahoma,Male,18,Education
+582,Oregon,Male,13,Education
+583,Pennsylvania,Male,78,Education
+584,South Carolina,Male,20,Education
+585,Tennessee,Male,44,Education
+586,Texas,Male,117,Education
+587,Utah,Male,27,Education
+588,Virginia,Male,61,Education
+589,Washington,Male,25,Education
+590,Wisconsin,Male,35,Education
+591,United States,Female,3300,Education
+592,Alabama,Female,81,Education
+593,Arizona,Female,51,Education
+594,California,Female,221,Education
+595,Colorado,Female,74,Education
+596,Connecticut,Female,8,Education
+597,District of Columbia,Female,45,Education
+598,Florida,Female,176,Education
+599,Georgia,Female,80,Education
+600,Idaho,Female,13,Education
+601,Illinois,Female,125,Education
+602,Indiana,Female,80,Education
+603,Iowa,Female,47,Education
+604,Kansas,Female,26,Education
+605,Kentucky,Female,44,Education
+606,Louisiana,Female,44,Education
+607,Maryland,Female,26,Education
+608,Massachusetts,Female,89,Education
+609,Michigan,Female,122,Education
+610,Minnesota,Female,112,Education
+611,Mississippi,Female,71,Education
+612,Missouri,Female,82,Education
+613,Montana,Female,22,Education
+614,Nebraska,Female,29,Education
+615,Nevada,Female,29,Education
+616,New Jersey,Female,36,Education
+617,New Mexico,Female,30,Education
+618,New York,Female,222,Education
+619,North Carolina,Female,85,Education
+620,North Dakota,Female,32,Education
+621,Ohio,Female,182,Education
+622,Oklahoma,Female,58,Education
+623,Oregon,Female,18,Education
+624,Pennsylvania,Female,152,Education
+625,South Carolina,Female,38,Education
+626,Tennessee,Female,98,Education
+627,Texas,Female,269,Education
+628,Utah,Female,36,Education
+629,Virginia,Female,142,Education
+630,Washington,Female,50,Education
+631,Wisconsin,Female,75,Education
+632,United States,Male,2581,Humanities and arts
+633,Alabama,Male,13,Humanities and arts
+634,Arizona,Male,41,Humanities and arts
+635,Arkansas,Male,8,Humanities and arts
+636,California,Male,292,Humanities and arts
+637,Colorado,Male,41,Humanities and arts
+638,Connecticut,Male,60,Humanities and arts
+639,District of Columbia,Male,58,Humanities and arts
+640,Florida,Male,88,Humanities and arts
+641,Georgia,Male,55,Humanities and arts
+642,Hawaii,Male,7,Humanities and arts
+643,Illinois,Male,166,Humanities and arts
+644,Indiana,Male,97,Humanities and arts
+645,Iowa,Male,22,Humanities and arts
+646,Kansas,Male,22,Humanities and arts
+647,Kentucky,Male,54,Humanities and arts
+648,Louisiana,Male,32,Humanities and arts
+649,Maryland,Male,39,Humanities and arts
+650,Massachusetts,Male,147,Humanities and arts
+651,Michigan,Male,83,Humanities and arts
+652,Minnesota,Male,22,Humanities and arts
+653,Mississippi,Male,7,Humanities and arts
+654,Missouri,Male,58,Humanities and arts
+655,Nebraska,Male,8,Humanities and arts
+656,New Jersey,Male,74,Humanities and arts
+657,New Mexico,Male,6,Humanities and arts
+658,New York,Male,281,Humanities and arts
+659,North Carolina,Male,69,Humanities and arts
+660,Ohio,Male,86,Humanities and arts
+661,Oklahoma,Male,27,Humanities and arts
+662,Oregon,Male,11,Humanities and arts
+663,Pennsylvania,Male,123,Humanities and arts
+664,Puerto Rico,Male,8,Humanities and arts
+665,Rhode Island,Male,27,Humanities and arts
+666,South Carolina,Male,15,Humanities and arts
+667,Tennessee,Male,53,Humanities and arts
+668,Texas,Male,178,Humanities and arts
+669,Utah,Male,8,Humanities and arts
+670,Virginia,Male,53,Humanities and arts
+671,Washington,Male,25,Humanities and arts
+672,West Virginia,Male,7,Humanities and arts
+673,Wisconsin,Male,76,Humanities and arts
+674,United States,Female,2708,Humanities and arts
+675,Alabama,Female,15,Humanities and arts
+676,Arizona,Female,50,Humanities and arts
+677,Arkansas,Female,15,Humanities and arts
+678,California,Female,332,Humanities and arts
+679,Colorado,Female,41,Humanities and arts
+680,Connecticut,Female,55,Humanities and arts
+681,District of Columbia,Female,40,Humanities and arts
+682,Florida,Female,94,Humanities and arts
+683,Georgia,Female,70,Humanities and arts
+684,Hawaii,Female,6,Humanities and arts
+685,Illinois,Female,174,Humanities and arts
+686,Indiana,Female,91,Humanities and arts
+687,Iowa,Female,28,Humanities and arts
+688,Kansas,Female,25,Humanities and arts
+689,Kentucky,Female,33,Humanities and arts
+690,Louisiana,Female,26,Humanities and arts
+691,Maryland,Female,38,Humanities and arts
+692,Massachusetts,Female,145,Humanities and arts
+693,Michigan,Female,80,Humanities and arts
+694,Minnesota,Female,27,Humanities and arts
+695,Mississippi,Female,14,Humanities and arts
+696,Missouri,Female,49,Humanities and arts
+697,Nebraska,Female,10,Humanities and arts
+698,New Jersey,Female,78,Humanities and arts
+699,New Mexico,Female,9,Humanities and arts
+700,New York,Female,314,Humanities and arts
+701,North Carolina,Female,74,Humanities and arts
+702,Ohio,Female,62,Humanities and arts
+703,Oklahoma,Female,24,Humanities and arts
+704,Oregon,Female,21,Humanities and arts
+705,Pennsylvania,Female,162,Humanities and arts
+706,Puerto Rico,Female,10,Humanities and arts
+707,Rhode Island,Female,35,Humanities and arts
+708,South Carolina,Female,9,Humanities and arts
+709,Tennessee,Female,44,Humanities and arts
+710,Texas,Female,171,Humanities and arts
+711,Utah,Female,17,Humanities and arts
+712,Virginia,Female,74,Humanities and arts
+713,Washington,Female,36,Humanities and arts
+714,West Virginia,Female,13,Humanities and arts
+715,Wisconsin,Female,64,Humanities and arts
+716,United States,Male,1399,Other
+717,Alabama,Male,21,Other
+718,Arizona,Male,20,Other
+719,California,Male,90,Other
+720,Colorado,Male,12,Other
+721,Connecticut,Male,20,Other
+722,District of Columbia,Male,23,Other
+723,Florida,Male,90,Other
+724,Georgia,Male,42,Other
+725,Illinois,Male,73,Other
+726,Indiana,Male,44,Other
+727,Iowa,Male,22,Other
+728,Kansas,Male,20,Other
+729,Kentucky,Male,12,Other
+730,Louisiana,Male,25,Other
+731,Maryland,Male,22,Other
+732,Massachusetts,Male,56,Other
+733,Michigan,Male,40,Other
+734,Minnesota,Male,72,Other
+735,Mississippi,Male,18,Other
+736,Missouri,Male,29,Other
+737,Nebraska,Male,5,Other
+738,New Jersey,Male,34,Other
+739,New York,Male,94,Other
+740,North Carolina,Male,44,Other
+741,Ohio,Male,52,Other
+742,Oregon,Male,12,Other
+743,Pennsylvania,Male,78,Other
+744,South Carolina,Male,13,Other
+745,Tennessee,Male,20,Other
+746,Texas,Male,128,Other
+747,Utah,Male,10,Other
+748,Virginia,Male,55,Other
+749,Washington,Male,24,Other
+750,Wisconsin,Male,17,Other
+751,United States,Female,1713,Other
+752,Alabama,Female,28,Other
+753,Arizona,Female,24,Other
+754,California,Female,160,Other
+755,Colorado,Female,36,Other
+756,Connecticut,Female,14,Other
+757,District of Columbia,Female,31,Other
+758,Florida,Female,86,Other
+759,Georgia,Female,42,Other
+760,Illinois,Female,117,Other
+761,Indiana,Female,35,Other
+762,Iowa,Female,29,Other
+763,Kansas,Female,19,Other
+764,Kentucky,Female,10,Other
+765,Louisiana,Female,24,Other
+766,Maryland,Female,30,Other
+767,Massachusetts,Female,68,Other
+768,Michigan,Female,49,Other
+769,Minnesota,Female,94,Other
+770,Mississippi,Female,15,Other
+771,Missouri,Female,36,Other
+772,Nebraska,Female,9,Other
+773,New Jersey,Female,44,Other
+774,New York,Female,97,Other
+775,North Carolina,Female,81,Other
+776,Ohio,Female,61,Other
+777,Oregon,Female,16,Other
+778,Pennsylvania,Female,90,Other
+779,South Carolina,Female,14,Other
+780,Tennessee,Female,26,Other
+781,Texas,Female,147,Other
+782,Utah,Female,10,Other
+783,Virginia,Female,47,Other
+784,Washington,Female,33,Other
+785,Wisconsin,Female,42,Other
